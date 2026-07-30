@@ -86,17 +86,6 @@ http://localhost:3000
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots here to showcase the application.
-
-- Home Page
-- Trending Coins
-- Coin Details
-- Interactive Price Chart
-
----
-
 ## 📚 What I Learned
 
 - Building responsive applications with React.js
