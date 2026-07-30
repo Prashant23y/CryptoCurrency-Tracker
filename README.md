@@ -137,7 +137,7 @@ git push origin feature-name
 
 ## 👨‍💻 Author
 
-**Prashant Yadav**
+**Prashant Kumar**
 
 GitHub: https://github.com/Prashant23y
 
